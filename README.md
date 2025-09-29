@@ -1,60 +1,84 @@
-# My AWS Restart & AI Learning Journey 🚀
+<a id="top"></a>
+<img src="https://img.shields.io/badge/Progresso-0%25-red" width="200" />
+# Minha Jornada de Aprendizado em AWS Restart & IA 🚀
 
-Welcome to my personal repository for the **Escola da Nuvem - AWS Restart Program**. This space is dedicated to documenting my progress, notes, and insights, with a special focus on the **Artificial Intelligence (AI)** module.
-
-## 📖 About This Repository
-
-The main goal of this repository is to serve as a living document of my learning experience. Here, I will be:
-
--   **Taking Notes:** Consolidating key concepts from lectures and labs.
--   **Creating Articles:** Writing in-depth articles to explain complex topics in a clear and concise way.
--   **Building Projects:** Showcasing practical applications of the skills learned.
--   **Tracking Progress:** Creating a public portfolio of my journey into Cloud Computing and AI on AWS.
+Bem-vindo ao meu repositório pessoal do programa Escola da Nuvem - AWS Restart. Este espaço é dedicado a documentar meu progresso, anotações e descobertas, com foco especial no módulo de Inteligência Artificial (IA).
 
 ---
 
-## ☁️ The Program: Escola da Nuvem & AWS Restart
+## 📖 Sobre Este Repositório
 
-The [AWS Restart program](https://aws.amazon.com/training/restart/) is a full-time, classroom-based skills development and training program that prepares individuals for careers in the cloud and connects them to potential employers. This specific edition is a collaboration with [Escola da Nuvem](https://escoladanuvem.org/), focused on providing a comprehensive foundation in cloud infrastructure and a specialization in Artificial Intelligence services on AWS.
+O principal objetivo deste repositório é servir como um registro vivo da minha experiência de aprendizado. Aqui, estarei:
+* Fazendo Anotações: Consolidando conceitos-chave de aulas e laboratórios.
+* Criando Artigos: Escrevendo artigos aprofundados para explicar tópicos complexos de forma clara e concisa.
+* Construindo Projetos: Exibindo aplicações práticas das habilidades adquiridas.
+* Acompanhando o Progresso: Criando um portfólio público da minha jornada em Cloud Computing e IA na AWS.
 
----
+☁️ O Programa: Escola da Nuvem & AWS Restart
 
-## 📚 Modules & Key Topics (In Progress)
+O programa AWS Restart é um programa de desenvolvimento e treinamento em habilidades em tempo integral, com base em sala de aula, que prepara indivíduos para carreiras na nuvem e os conecta a potenciais empregadores. Esta edição específica é uma colaboração com a Escola da Nuvem, focada em fornecer uma base abrangente em infraestrutura de nuvem e uma especialização em serviços de Inteligência Artificial na AWS.
 
-This list will be updated as the bootcamp progresses.
+📚 Módulos & Tópicos-Chave (Em Andamento)
 
--   [x] **Module 0: Technical leveling**
-    -   Key Concepts: General base for programming
--   [ ] **Module 1: Cloud Foundations & AWS Basics**
-    -   Key Concepts: IAM, S3, Billing and Pricing
--   [ ] **Module 2: Core Compute and Networking Services**
-    -   Key Concepts: EC2, VPC, Route 53
--   [ ] **Module 3: Database Services**
-    -   Key Concepts: RDS, DynamoDB
--   [ ] **Module 4: Introduction to Artificial Intelligence**
-    -   Key Concepts: Machine Learning vs. Deep Learning, LLMs
--   [ ] **Module 5: AI & ML on AWS**
-    -   Key Concepts: Amazon SageMaker, AWS Bedrock, Amazon Rekognition
--   [ ] **Final Project**
-    -   Description: ---
-
-## 🎯 My Goals
-
-Through this journey, I aim to:
-
-1.  Achieve the **AWS Certified Cloud Practitioner** certification.
-2.  Develop a strong, practical understanding of AWS core services.
-3.  Build and deploy a functional application using AWS AI services.
-4.  Share my knowledge with the tech community through well-written articles.
+Esta lista será atualizada à medida que o bootcamp avança.
+* [ ] Módulo 0: Nivelamento Técnico
+  * Conceitos-Chave: Base geral para programação
+* [ ] Módulo 1: Fundamentos de Nuvem & AWS Básicos
+  * Conceitos-Chave: IAM, S3, Faturamento e Precificação
+* [ ] Módulo 2: Serviços de Computação e Rede
+  * Conceitos-Chave: EC2, VPC, Route 53
+* [ ] Módulo 3: Serviços de Banco de Dados
+  * Conceitos-Chave: RDS, DynamoDB
+* [ ] Módulo 4: Introdução à Inteligência Artificial
+  * Conceitos-Chave: Machine Learning vs. Deep Learning, LLMs
+* [ ] Módulo 5: IA & ML na AWS
+  * Conceitos-Chave: Amazon SageMaker, AWS Bedrock, Amazon Rekognition
+* [ ] Projeto Final
 
 ---
 
-## 🔗 Connect With Me
+🎯 Meus Objetivos
 
-I'm always open to connecting with fellow students, developers, and tech enthusiasts. Feel free to reach out!
+Através desta jornada, eu pretendo:
+* Conquistar a certificação AWS Certified Cloud Practitioner.
+* Desenvolver uma compreensão forte e prática dos principais serviços da AWS.
+* Construir e implantar uma aplicação funcional usando serviços de IA da AWS.
+* Compartilhar meu conhecimento com a comunidade de tecnologia por meio de artigos bem escritos.
 
--   **LinkedIn:** [Natalia Berbet Viana](https://www.linkedin.com/in/nataliaberbetviana) 
+---
+## 🤝 Como Contribuir
 
-## 🙏 Acknowledgements
+Este repositório é um guia, mas você pode ajudar a torná-lo ainda melhor!
 
-A special thank you to **Escola da Nuvem** and **Amazon Web Services (AWS)** for providing this incredible learning opportunity.
+    Abra uma Issue: Sugira novos tópicos, exercícios ou projetos.
+
+    Envie um Pull Request: Corrija erros ou adicione conteúdo.
+
+Juntos, podemos criar o melhor recurso para iniciantes em lógica de programação!
+
+---
+
+## 🙏 Agradecimentos
+
+Um agradecimento especial à Escola da Nuvem e à Amazon Web Services (AWS) por proporcionarem esta incrível oportunidade de aprendizado.
+
+---
+
+## 🔗 Conecte-se
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/seu-nome-de-perfil/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge do LinkedIn">
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge do Gmail">
+  </a>
+</div>
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#
