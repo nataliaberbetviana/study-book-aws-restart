@@ -1,5 +1,5 @@
 <a id="top"></a>
-<img src="https://img.shields.io/badge/Progresso-0%25-red" width="200" />
+<img src="https://img.shields.io/badge/Progresso-14.28%25-red" width="200" />
 # Minha Jornada de Aprendizado em AWS Restart & IA 🚀
 
 Bem-vindo ao meu repositório pessoal do programa Escola da Nuvem - AWS Restart. Este espaço é dedicado a documentar meu progresso, anotações e descobertas, com foco especial no módulo de Inteligência Artificial (IA).
@@ -21,7 +21,7 @@ O programa AWS Restart é um programa de desenvolvimento e treinamento em habili
 📚 Módulos & Tópicos-Chave (Em Andamento)
 
 Esta lista será atualizada à medida que o bootcamp avança.
-* [ ] Módulo 0: Nivelamento Técnico
+* [x] Módulo 0: Nivelamento Técnico
   * Conceitos-Chave: Base geral para programação
 * [ ] Módulo 1: Fundamentos de Nuvem & AWS Básicos
   * Conceitos-Chave: IAM, S3, Faturamento e Precificação
