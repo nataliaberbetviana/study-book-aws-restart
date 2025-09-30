@@ -29,5 +29,3 @@ Essa arquitetura simples ilustra a eficiência da nuvem. Em vez de gerenciar ser
     <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
   </a>
 </div>
-
-#
