@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Arquitetura em Nuvem na AWS
 Esse estudo analisa a estrutura de uma aplicação web simples, focando na interconexão entre os serviços essenciais da AWS para processar e armazenar dados de usuários. A arquitetura  demonstra como a nuvem abstrai a infraestrutura física e a transforma em serviços gerenciáveis e escaláveis.
 
@@ -21,3 +22,12 @@ Para ser funcional, a aplicação precisa de locais para armazenar dados dinâmi
 ---
 ## **Conclusão**
 Essa arquitetura simples ilustra a eficiência da nuvem. Em vez de gerenciar servidores físicos, redes e hardware de armazenamento, o desenvolvedor usa serviços gerenciados da AWS. Essa abordagem permite focar no código da aplicação, enquanto a AWS cuida da infraestrutura subjacente, do banco de dados e do armazenamento de arquivos, tudo de forma segura e escalável dentro de uma rede virtual isolada (VPC).
+
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#

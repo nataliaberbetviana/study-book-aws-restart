@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Fundamento da Computação em Nuvem
 ## O que é Computação em Nuvem?
 * ***Definição e metáfora:** Entenda a computação em nuvem como o fornecimento de serviços de computação pela internet. Pense nela como a eletricidade: você não precisa construir uma usina para usar a luz, você apenas se conecta à rede elétrica. Com a nuvem, você não precisa comprar e manter servidores físicos, apenas se conecta ao provedor de nuvem.
@@ -35,3 +36,12 @@
 * **O Protocolo DNS (Domain Name System):**
 	* **O que é:** O DNS é o "livro de contatos" da internet. Ele traduz nomes de domínios legíveis por humanos para endereços IP numéricos que os computadores entendem.
 	* **Função Principal:** Tradução de nomes para IPs. Quando você digita um site, seu computador pergunta a um servidor DNS qual é o endereço IP associado a esse nome, pra então poder se conectar a ele usando o IP. Sem o DNS, você precisaria decorar o endereço IP de cada site que quisesse visitar.
+
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#

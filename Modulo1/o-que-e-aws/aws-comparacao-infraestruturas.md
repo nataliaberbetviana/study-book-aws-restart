@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Comparação de Infraestruturas
 ## Segurança
 Em uma infraestrutura local, a segurança é uma responsabilidade exclusiva e complexa. Você deve gerenciar dispositivos físicos e a equipe de segurança. Na AWS, a segurança é um serviço compartilhado, com a AWS gerenciando a segurança **da** nuvem e você gerenciando a segurança **na** nuvem.
@@ -33,3 +34,12 @@ O gerenciamento de armazenamento e bancos de dados em um ambiente local exige ha
 
 ## Conclusão
 A principal diferença é a ** mudança de responsabilidade**. No modelo On Premise, você é responsável por todo o hardware e sua manunteç.ão. Na AWS, a responsabilidade de manter a infraestrutura subjacente é da Amazon, permitindo que você se concente na criação de aplicações e no crescimento do seu negócio. Essa transição reduz o custo inicial, aumenta a flexibilidade, e permite à escalabiliade de recurssos de forma rápida e eficiente.
+
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#

@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Fundamentos de Rede na Nuvem - A Conexão Essencial
 ## O Protocolo IP (Internet Protocol)
 O **IP** é a base da comunicação de dados na internet. Ele funciona como o sistema de endereçamento que garante que um pacote de dados enviado de seu computador chegue ao destino correto, seja um servidor de e-mail ou uma máquina virtual na nuvem.
@@ -23,3 +24,11 @@ O **DNS** é essencial para a nossa experiência de navegação, pois ele lida c
     * O servidor DNS procura o endereço IP associado com o link.
     * Retorna o endereço IP do link para o seu computador.
       Esse processo acontece em milissegundos e é o que torna a internet acessível para nós. Sem o DNS, a navegação seria impossível, pois teríamos que memorizar uma longa lista de numeros para acessar nossos sites favoritos.
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#

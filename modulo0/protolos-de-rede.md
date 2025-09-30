@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Uma Jornada pelas Camadas de Protocolos da Internet
 ## 🌐 Introdução: A Linguagem da Internet e o Modelo de Camadas 
 Imagine a internet como uma grande e complexa rede de comunicação. Para que dispositivos de diferentes fabricantes consigam falar entre si, eles seguem um conjunto de regras, ou protocolos. Esses protocolos são organizados em camadas, onde cada camada tem uma função específica e se comunica com as camadas acima e abaixo dela.
@@ -47,3 +48,12 @@ Juntos, esses modelos explicam como dados, transformados em bits, viajam do seu 
 
 📚 Aprofunde seu Conhecimento
 Para explorar as especificações técnicas, acesse a documentação oficial do [Protocolo TCP](https://datatracker.ietf.org/doc/html/rfc793) e o [Protocolo IP](https://datatracker.ietf.org/doc/html/rfc791).
+
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#

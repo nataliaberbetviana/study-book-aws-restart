@@ -1,3 +1,4 @@
+<a id="top"></a>
 # AWS and IP Calculation: Understanding the Foundation of the Cloud  
 ## 🌐 Cloud Computing: The Role of Networking in AWS
 
@@ -95,3 +96,11 @@ This is the foundation that will support all the applications you deploy in the 
 ## 📖 Learn More
 
 🔗 [AWS Official Documentation](https://docs.aws.amazon.com/)
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/-Voltar%20ao%20Topo-lightgrey?style=for-the-badge" alt="Botão de voltar ao topo">
+  </a>
+</div>
+
+#
